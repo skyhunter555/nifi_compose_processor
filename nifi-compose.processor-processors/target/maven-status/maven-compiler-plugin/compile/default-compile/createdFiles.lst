@@ -1,0 +1,7 @@
+ru\syntez\processors\compose\processor\MapStructConverterImpl.class
+ru\syntez\processors\compose\processor\ComposeTransformProcessor.class
+ru\syntez\processors\compose\processor\entities\OutputDocumentExt.class
+ru\syntez\processors\compose\processor\entities\ComposeDocument.class
+ru\syntez\processors\compose\processor\entities\InvoiceDocument.class
+ru\syntez\processors\compose\processor\entities\OrderDocument.class
+ru\syntez\processors\compose\processor\MapStructConverter.class
