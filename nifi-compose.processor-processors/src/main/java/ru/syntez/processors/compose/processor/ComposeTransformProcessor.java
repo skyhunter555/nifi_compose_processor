@@ -50,7 +50,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-@Tags({"example", "transform", "demo"})
+@Tags({"example", "custom", "transform", "demo"})
 @CapabilityDescription("Example demo processor to transform document entities to compose")
 @SeeAlso({})
 @ReadsAttributes({@ReadsAttribute(attribute="", description="")})
